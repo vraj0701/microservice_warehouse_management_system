@@ -1,0 +1,15 @@
+# Terminal Environment Changes
+
+## Extension: GitHub.codespaces
+
+- `CODESPACE_VSCODE_FOLDER=/workspaces/microservice_warehouse_management_system`
+
+## Extension: vscode.git
+
+Enables the following features: git auth provider
+
+- `GIT_ASKPASS=/vscode/bin/linux-x64/6928394f91b684055b873eecb8bc281365131f1c/extensions/git/dist/askpass.sh`
+- `VSCODE_GIT_ASKPASS_NODE=/vscode/bin/linux-x64/6928394f91b684055b873eecb8bc281365131f1c/node`
+- `VSCODE_GIT_ASKPASS_EXTRA_ARGS=`
+- `VSCODE_GIT_ASKPASS_MAIN=/vscode/bin/linux-x64/6928394f91b684055b873eecb8bc281365131f1c/extensions/git/dist/askpass-main.js`
+- `VSCODE_GIT_IPC_HANDLE=/tmp/vscode-git-17abbb53f4.sock`
